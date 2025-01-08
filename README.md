@@ -1,4 +1,4 @@
-# Project 3 – File Systems
+# WAD File System
 
 ## Overview
 The goal of this project was to implement a library for reading WAD files and creating a file system capable of opening and reading files. Additionally, a daemon was developed to access the system once mounted.
